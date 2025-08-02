@@ -62,4 +62,3 @@ jobs:
           body: "Release ${{ steps.meta.outputs.version }}"
           artifacts: |
             ${{ steps.find_jar.outputs.jar_path }}
-            ${{ steps.find_jar.outputs.jar_path }}.sig
