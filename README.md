@@ -1,10 +1,10 @@
 # jxscout burp
 
-Burp plugin to ingest requests to [jxscout](https://github.com/francisconeves97/jxscout)
+Burp plugin to ingest requests to [jxscout](https://github.com/khara-bb/jxscout)
 
 ## Downloading from releases
 
-You can download the pre-compiled plugin from the [releases page](https://github.com/francisconeves97/jxscout-burp/releases).
+You can download the pre-compiled plugin from the [releases page](https://github.com/khara-bb/jxscout-burp/releases).
 
 ## Building locally
 
